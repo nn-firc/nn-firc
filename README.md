@@ -5,6 +5,4 @@
 <p >   
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/nn15/count.svg)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nn15&layout=compact&theme=cobalt)
